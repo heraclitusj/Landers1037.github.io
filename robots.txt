@@ -1,6 +1,6 @@
 # hexo robots.txt
 User-agent: *
-Allow: /
+Allow: /woshiniye
 Allow: /archives/
 
 Disallow: /vendors/
